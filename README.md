@@ -19,5 +19,5 @@ Possible Inputs:
 2. Mark Completed: "Buy groceries"
 3. View Tasks: "Show all", "Show completed", "Show pending"
 
-Possible Outputs;
-Task List: Display the tasks along with their status, for example, "Buy groceries - Completed, Due: 2023-09-20"
+Possible Outputs:
+- Task List: Display the tasks along with their status, for example, "Buy groceries - Completed, Due: 2023-09-20"
